@@ -12,7 +12,7 @@ Code and datasets accompanying the manuscript:
 
 ## Setup
     git clone https://github.com/ami01/fhm-argens-gapeu.git
-    cd nhess-flood-analysis
+    cd fhm-argens-gapeu
     pip install -r requirements.txt
 
 ## Usage
