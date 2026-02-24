@@ -11,12 +11,12 @@ Code and datasets accompanying the manuscript:
 - See requirements.txt for dependencies
 
 ## Setup
-    git clone https://github.com/ami01/FHM_Argens.git
+    git clone https://github.com/ami01/fhm-argens-gapeu.git
     cd nhess-flood-analysis
     pip install -r requirements.txt
 
 ## Usage
-See src/README.md for dataset descriptions
+See src/README.md for model descriptions
 
 ## Data
 See data/README.md for dataset descriptions.
