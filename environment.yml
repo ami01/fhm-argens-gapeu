@@ -1,0 +1,35 @@
+name: fhm-argens-gapeu
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  # Core
+  - python>=3.9
+  - numpy>=1.24
+  - pandas>=2.0
+  - scipy>=1.10
+
+  # Machine Learning
+  - scikit-learn>=1.3
+  - xgboost>=2.0
+
+  # Geospatial
+  - rasterio>=1.3
+  - geopandas>=0.14
+  - fiona>=1.9
+  - shapely>=2.0
+  - pyproj>=3.6
+
+  # Visualization
+  - matplotlib>=3.7
+  - seaborn>=0.12
+
+  # Jupyter
+  - jupyterlab
+
+  # R (for Neural Network model)
+  - r-base>=4.2
+  - r-nnet
+  - r-raster
+  - r-caret
+  - r-sf
