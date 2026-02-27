@@ -36,7 +36,7 @@ System Sciences (NHESS).
 ### Random Forest
     cd models/random_forest/
     python 01_training.py
-    python 02_testing.py
+    python 02_prediction.py
     python 03_validation.py
     python 04_extrapolation.py
     python 05_extrapolation_validation.py
