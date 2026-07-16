@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Machine Learning Surrogates for Flash Flood Hazard Mapping: CSI-Optimised Feature Selection and Spatial Transferability"
+abstract: >-
+  Code and datasets accompanying the manuscript evaluating Random Forest,
+  eXtreme Gradient Boosting, and a Feed-Forward Neural Network as surrogates
+  for high-resolution 2D hydrodynamic flood simulation, with CSI-optimised
+  feature selection and cross-catchment spatial transfer (Argens to Gapeau).
+type: software
+authors:
+  - family-names: Arora
+    given-names: Aman
+    affiliation: "Univ Gustave Eiffel, GERS-LEE, F-44344 Bouguenais, France"
+  - family-names: Nicolle
+    given-names: Pierre
+    affiliation: "Univ Gustave Eiffel, GERS-LEE, F-44344 Bouguenais, France"
+  - family-names: Payrastre
+    given-names: Olivier
+    affiliation: "Univ Gustave Eiffel, GERS-LEE, F-44344 Bouguenais, France"
+version: "2.0"
+date-released: "2026-07-16"
+license: MIT
+repository-code: "https://github.com/ami01/fhm-argens-gapeu"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.18758068
+    description: Concept DOI (all versions)
+keywords:
+  - flood hazard mapping
+  - machine learning
+  - random forest
+  - XGBoost
+  - neural network
+  - feature selection
+  - critical success index
+  - spatial transferability
+  - hydrodynamic simulation
+preferred-citation:
+  type: article
+  title: "Machine Learning Surrogates for Flash Flood Hazard Mapping: CSI-Optimised Feature Selection and Spatial Transferability"
+  authors:
+    - family-names: Arora
+      given-names: Aman
+    - family-names: Nicolle
+      given-names: Pierre
+    - family-names: Payrastre
+      given-names: Olivier
+  journal: "Geomatics, Natural Hazards and Risk"
+  publisher:
+    name: "Taylor & Francis"
+  year: 2026
