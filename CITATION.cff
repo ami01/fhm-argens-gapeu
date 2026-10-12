@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it using the metadata below."
-title: "Machine Learning Surrogates for Flash Flood Hazard Mapping: CSI-Optimised Feature Selection and Spatial Transferability"
+title: "Machine learning surrogates for flash flood hazard mapping: CSI-optimized feature selection and spatial transferability"
 abstract: >-
-  Code and datasets accompanying the manuscript evaluating Random Forest,
+  Code and datasets accompanying the article evaluating Random Forest,
   eXtreme Gradient Boosting, and a Feed-Forward Neural Network as surrogates
   for high-resolution 2D hydrodynamic flood simulation, with CSI-optimised
   feature selection and cross-catchment spatial transfer (Argens to Gapeau).
@@ -25,6 +25,9 @@ identifiers:
   - type: doi
     value: 10.5281/zenodo.18758068
     description: Concept DOI (all versions)
+  - type: doi
+    value: 10.1080/19475705.2026.2707816
+    description: Associated journal article
 keywords:
   - flood hazard mapping
   - machine learning
@@ -37,7 +40,7 @@ keywords:
   - hydrodynamic simulation
 preferred-citation:
   type: article
-  title: "Machine Learning Surrogates for Flash Flood Hazard Mapping: CSI-Optimised Feature Selection and Spatial Transferability"
+  title: "Machine learning surrogates for flash flood hazard mapping: CSI-optimized feature selection and spatial transferability"
   authors:
     - family-names: Arora
       given-names: Aman
@@ -48,4 +51,10 @@ preferred-citation:
   journal: "Geomatics, Natural Hazards and Risk"
   publisher:
     name: "Taylor & Francis"
+  volume: 17
+  issue: "1"
+  start: "2707816"
   year: 2026
+  month: 9
+  doi: 10.1080/19475705.2026.2707816
+  url: "https://doi.org/10.1080/19475705.2026.2707816"

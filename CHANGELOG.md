@@ -1,5 +1,19 @@
 # Changelog
 
+## 2026-10-12 — Article published
+The article was published in *Geomatics, Natural Hazards and Risk*,
+17(1), 2707816 (online 2026-09-30),
+https://doi.org/10.1080/19475705.2026.2707816, under the final title
+**"Machine learning surrogates for flash flood hazard mapping:
+CSI-optimized feature selection and spatial transferability"**.
+
+### Changed
+- README: final title, journal reference, paper DOI badge, and a full
+  citation with BibTeX.
+- CITATION.cff: `preferred-citation` now gives volume, issue, article
+  number, and DOI. The article DOI is also listed under `identifiers`.
+- No changes to code or data.
+
 ## v2.0 — 2026 (Geomatics, Natural Hazards and Risk revision)
 
 Revised release accompanying the manuscript retitled

@@ -1,13 +1,15 @@
 # Flood Hazard Mapping — Argens & Gapeau Basins
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18758068.svg)](https://doi.org/10.5281/zenodo.18758068)
+[![Paper DOI](https://img.shields.io/badge/Paper-10.1080%2F19475705.2026.2707816-blue)](https://doi.org/10.1080/19475705.2026.2707816)
+[![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18758068.svg)](https://doi.org/10.5281/zenodo.18758068)
 
 ## Description
-Code and datasets accompanying the manuscript:
+Code and datasets accompanying the article:
 
-**"Machine Learning Surrogates for Flash Flood Hazard Mapping:
-CSI-Optimised Feature Selection and Spatial Transferability"**
-submitted to *Geomatics, Natural Hazards and Risk* (Taylor & Francis).
+**"Machine learning surrogates for flash flood hazard mapping:
+CSI-optimized feature selection and spatial transferability"**
+published in *Geomatics, Natural Hazards and Risk*, 17(1), 2707816 (2026).
+https://doi.org/10.1080/19475705.2026.2707816 (open access, CC BY-NC 4.0)
 
 **Authors:** Aman Arora, Pierre Nicolle, Olivier Payrastre
 **Affiliation:** Univ Gustave Eiffel, GERS-LEE, F-44344 Bouguenais, France
@@ -88,7 +90,23 @@ is assessed with Brier scores and reliability diagrams.
 MIT License — see LICENSE file.
 
 ## Citation
-Arora, A., Nicolle, P., and Payrastre, O.: Machine Learning Surrogates
-for Flash Flood Hazard Mapping: CSI-Optimised Feature Selection and
-Spatial Transferability, Geomatics, Natural Hazards and Risk, 2026.
+If you use this code or data, please cite the article:
+
+Arora, A., Nicolle, P., and Payrastre, O. (2026). Machine learning
+surrogates for flash flood hazard mapping: CSI-optimized feature
+selection and spatial transferability. *Geomatics, Natural Hazards and
+Risk*, 17(1), 2707816. https://doi.org/10.1080/19475705.2026.2707816
+
+    @article{arora2026surrogates,
+      author  = {Arora, Aman and Nicolle, Pierre and Payrastre, Olivier},
+      title   = {Machine learning surrogates for flash flood hazard mapping:
+                 {CSI}-optimized feature selection and spatial transferability},
+      journal = {Geomatics, Natural Hazards and Risk},
+      volume  = {17},
+      number  = {1},
+      pages   = {2707816},
+      year    = {2026},
+      doi     = {10.1080/19475705.2026.2707816}
+    }
+
 Software archived at https://doi.org/10.5281/zenodo.18758068
